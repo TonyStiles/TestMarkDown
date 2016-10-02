@@ -17,5 +17,17 @@ _italics with **some bold**_
 2. Ordered B
   1. Subordered B.1
   2. Sub-ordered B.2
-   * Unordered X
-   * Unordered Y
+    * Unordered X
+    * Unordered Y
+
+```C#
+void DoStuff(int x, int y)
+{
+  int a = 27;
+  Console.WriteLine(a);
+}
+````
+
+- [ ] Item 1
+- [ ] Item 2
+- [x] Done item
