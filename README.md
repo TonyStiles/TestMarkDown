@@ -6,4 +6,4 @@
 
 *italic*
 
-*italics with **some bold***
+*italics with **some bold** *
