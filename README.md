@@ -4,6 +4,6 @@
 
 **bold**
 
-*italic*
+_italic_
 
-*italics with **some bold** *
+_italics with **some bold**_
