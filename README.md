@@ -17,3 +17,5 @@ _italics with **some bold**_
 2. Ordered B
   1. Subordered B.1
   2. Sub-ordered B.2
+   * Unordered X
+   * Unordered Y
